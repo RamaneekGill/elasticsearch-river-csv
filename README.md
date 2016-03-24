@@ -23,7 +23,7 @@ We've staretd development on new standalone version of CSV uploader: https://git
 The CSV River plugin allows index CSV files in folder.
 
 In order to install the plugin, simply run: 
-```bin/plugin -install river-csv -url https://github.com/AgileWorksOrg/elasticsearch-river-csv/releases/download/2.2.1/elasticsearch-river-csv-2.2.1.zip```.
+```sudo bin/plugin install river-csv```.
 
 If it doesn't work, clone git repository and build plugin manually.
 
